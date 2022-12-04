@@ -2,7 +2,7 @@
 
 ### What is the ElGamal Algorithm
 
-ElGamal requires mathematical computations that are not available in Visual Basic .NET without the development of extra support functions.
+ElGamal requires mathematical computations that are not available in the .NET framework without the development of extra support functions.
 
 The ElGamal algorithm was created by Taher ElGamal and published in 1985. It has since gained popularity as a replacement for RSA, which, at the time, used to have problems with licensing and patents.
 
