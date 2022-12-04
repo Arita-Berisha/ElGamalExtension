@@ -25,7 +25,7 @@ public class ElGamalImplementation : ElGamal
         //  If we don't give any key size then we'll use the default
         KeySizeValue = 1024;
         //  The range of keys that can be used
-        LegalKeySizesValue = new KeySizes[] {new KeySizes(384, 1088, 8)};
+        LegalKeySizesValue = new KeySizes[] {new KeySizes(384, 2048, 8)};
     }
     
     public override void ImportParameters(ElGamalParameters pParameters) {
